@@ -83,7 +83,7 @@
                     </fieldset>
 
                     <fieldset style="margin-top: 30px" id="intput_param">
-                        <legend>Input Prameters</legend>
+                        <legend>Please answer each question carefully.</legend>
                         <div id="divControls">
                             <div class="row">
                                 <div class="col-lg-6" id="col-1">
