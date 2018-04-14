@@ -46,7 +46,7 @@
 </head>
 <body onresize="updateResize()">
     <div class="container azue-header">
-        <div class="jumbotron azue-header" style="background-image: url('Resources/azure-ml.png'); height: 126px; position: relative; padding-top: 10px;">
+        <div class="jumbotron azue-header" style="background-image: url('Resources/autism.png'); height: 126px; position: relative; padding-top: 10px;">
             <a href="/">
                 <div class="wheel">
                     <wheel></wheel>
